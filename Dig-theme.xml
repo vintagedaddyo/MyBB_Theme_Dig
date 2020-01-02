@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<theme name="Dig" version="1820">
+<theme name="Dig" version="1822">
 	<properties>
-		<templateset><![CDATA[14]]></templateset>
+		<templateset><![CDATA[15]]></templateset>
 		<editortheme><![CDATA[mybb.css]]></editortheme>
 		<imgdir><![CDATA[themes/dig]]></imgdir>
 		<logo><![CDATA[themes/dig/logo.png]]></logo>
@@ -11,7 +11,7 @@
 		<disporder><![CDATA[a:7:{s:10:"global.css";i:1;s:8:"css3.css";i:2;s:9:"modcp.css";i:3;s:10:"usercp.css";i:4;s:14:"showthread.css";i:5;s:17:"thread_status.css";i:6;s:16:"star_ratings.css";i:7;}]]></disporder>
 	</properties>
 	<stylesheets>
-		<stylesheet name="modcp.css" attachedto="modcp.php" version="1820"><![CDATA[/*
+		<stylesheet name="modcp.css" attachedto="modcp.php" version="1822"><![CDATA[/*
  * MyBB: Dig Frontend Theme 
  *
  * File: modcp.css File
@@ -125,9 +125,10 @@
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="showthread.css" attachedto="showthread.php" version="1820"><![CDATA[/*
+		<stylesheet name="showthread.css" attachedto="showthread.php" version="1822"><![CDATA[/*
  * MyBB: Dig Frontend Theme 
  *
  * File: showthread.css File
@@ -185,9 +186,10 @@ ul.thread_tools li.poll {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="star_ratings.css" attachedto="forumdisplay.php|showthread.php" version="1820"><![CDATA[/*
+		<stylesheet name="star_ratings.css" attachedto="forumdisplay.php|showthread.php" version="1822"><![CDATA[/*
  * MyBB: Dig Frontend Theme 
  *
  * File: star_rating.css File
@@ -292,9 +294,10 @@ td .star_rating {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="thread_status.css" attachedto="forumdisplay.php|usercp.php|search.php" version="1820"><![CDATA[/*
+		<stylesheet name="thread_status.css" attachedto="forumdisplay.php|usercp.php|search.php" version="1822"><![CDATA[/*
  * MyBB: Dig Frontend Theme 
  *
  * File: thread_status.css File
@@ -381,9 +384,10 @@ td .star_rating {
 .thread_status.newclosefolder {
     background-image: url('themes/dig/newlockfolder.png');  
 }
-]]>
+
+		]]>
 		</stylesheet>
-		<stylesheet name="usercp.css" attachedto="usercp.php|usercp2.php|private.php" version="1820"><![CDATA[/*
+		<stylesheet name="usercp.css" attachedto="usercp.php|usercp2.php|private.php" version="1822"><![CDATA[/*
  * MyBB: Dig Frontend Theme 
  *
  * File: usercp.css File
@@ -547,9 +551,10 @@ td .star_rating {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="css3.css" version="1820"><![CDATA[/*
+		<stylesheet name="css3.css" version="1822"><![CDATA[/*
  * MyBB: Dig Frontend Theme 
  *
  * File: css3.css File
@@ -664,9 +669,10 @@ a.button {
 }			
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="global.css" version="1820"><![CDATA[/*
+		<stylesheet name="global.css" version="1822"><![CDATA[/*
  * MyBB: Dig Frontend Theme 
  *
  * File: global.css File
@@ -2539,7 +2545,8 @@ div.jqi .jqisubstate .jqibuttons button {
 }
 
 /** Impromptu End */
-]]>
+
+		]]>
 		</stylesheet>
 	</stylesheets>
 	<templates>
