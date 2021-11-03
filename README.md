@@ -25,6 +25,8 @@ Dig v1.1
 
 History:
 
+11/02/2021 — Updated "Dig-theme.xml" file to 1.8.29
+01/02/2020 — Updated "Dig-theme.xml" file to 1.8.22
 04/05/2019 — Updated "Dig-theme.xml" file to 1.8.20
 09/11/2018 — Updated "Dig-theme.xml" file to 1.8.19
 08/28/2018 — Updated "Dig-theme.xml" file to 1.8.18
