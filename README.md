@@ -1,12 +1,12 @@
 # MyBB_Theme_Dig
 
-Dig v1.1
+Dig v1.2
 » About:
 
 This a simple classic 1.4.x theme ported to 1.8.x for MyBB enthusiasts.
 
 
-Dig v1.1
+Dig v1.2
 » Installation:
 
 1.) After downloading the Theme unpack it (with 7-Zip for example)
@@ -15,16 +15,18 @@ Dig v1.1
 4.) Search for the XML File titled "Dig-theme.xml" in the theme folder found on your computer and click the Button "Import Theme" this will upload the file from your computer to your forum.
 5.) Now have fun with your forum!
 
-Dig v1.1
+Dig v1.2
 » License:
 
 You may not remove or change the MyBB copyright nor the Designed by: "Vintagedaddyo" or "MyBB Themes" statements in the footer of this theme's templates. You may use and modify this theme to your personal likings, but redistributing a modified version for download is prohibited, unless you have explicit written permission from "Vintagedaddyo" or "MyBB Themes", though you are allowed to redistribute a copy that has not been modified.
 
-Dig v1.1
+Dig v1.2
 » Changelog:
 
 History:
 
+03/18/2022 — began creating "Dig-theme.xml" ver 1.2 file for 1.8.30
+03/18/2022 — Moved "Dig-theme.xml" file for 1.8.30 to documentation/1.1/Dig_1.1-theme.xml
 03/18/2022 — Updated "Dig-theme.xml" file to 1.8.30
 11/02/2021 — Updated "Dig-theme.xml" file to 1.8.29
 01/02/2020 — Updated "Dig-theme.xml" file to 1.8.22
